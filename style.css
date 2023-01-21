@@ -1,0 +1,18 @@
+a:hover{
+  background-color: lightblue;
+  color: blue;
+}
+a:active{
+  background-color: lightblue;
+  color:maroon;
+}
+body{
+  background-image:url("https://img.freepik.com/free-vector/unfocussed-winter-background-with-snowflakes_1393-271.jpg?w=2000");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+*{
+  color:maroon
+}
+
+h
