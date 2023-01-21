@@ -4,15 +4,17 @@ a:hover{
 }
 a:active{
   background-color: lightblue;
-  color:maroon;
+  color:crimson;
 }
 body{
-  background-image:url("https://img.freepik.com/free-vector/unfocussed-winter-background-with-snowflakes_1393-271.jpg?w=2000");
+  background-image:url("https://media.istockphoto.com/id/1277499450/photo/aurora-borealis-over-in-the-dark-night-sky-over-the-snowy-mountains-in-the-lofoten.jpg?b=1&s=170667a&w=0&k=20&c=3-FCmtgddS91Qw6AuZOH_N9Dpepe92STwqTe2Q6CAwQ=");
   background-repeat: no-repeat;
   background-size:cover;
 }
 *{
-  color:maroon
+  color:inherit;
+}
+.p1 .p2 .p3{
+  font-family: Monaco; 
 }
 
-h
